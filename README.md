@@ -58,17 +58,18 @@ X (Twitter): https://x.com/iamsuccinct
 
 Portfolio / Blog: succinctwrites.hashnode.dev
 
-<!--
+    <!--
 **succinct-cyber/succinct-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Web3 Payment platform
+- 🌱 I’m currently learning deep backend and Web3 integration
+- 👯 I’m looking to collaborate on any Web3 solution of any kind
+- 🤔 I’m looking for help with anything Web3 backend
+- 💬 Ask me about anything Web3 and Engineering
+- 📫 How to reach me: Email - pharbeeyee16@gmail.com
+- 😄 Pronouns: He/Him
+
+  
+  This profile focuses on backend engineering and Web3 systems, with GitHub used as proof of work.
